@@ -1,0 +1,2 @@
+Peningkatan nilai k membuat gambar menjadi lebih jelas dan berbeda, karena algoritma K-Means dapat mengklasifikasikan lebih banyak kelas/cluster warna. 
+Pengelompokan K-means bekerja dengan baik ketika kita memiliki dataset kecil. Itu dapat mengelompokkan objek dalam gambar dan juga memberikan hasil yang lebih baik. Tetapi ketika diterapkan pada kumpulan data besar (jumlah gambar lebih banyak), akan melihat semua sampel dalam satu iterasi yang menyebabkan banyak waktu tersita. 
